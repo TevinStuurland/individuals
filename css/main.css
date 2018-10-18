@@ -57,7 +57,6 @@ body {
 
 
 figure.logo{
-	width: 200px;
 	z-index: 100;
 }
 
@@ -71,10 +70,10 @@ figure img{
 }
 
 .individuals .text{
-	z-index:100;
-	position: absolute;
-	font-size: 30%;
+	font-size: 3em;
 	margin: 0 auto;
+	color: white;
+	font-weight: 600;
 }
 
 .dissappear{
