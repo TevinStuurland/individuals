@@ -73,13 +73,14 @@ figure img{
 	font-size: 3em;
 	margin: 0 auto;
 	position: absolute;
+	left: 500px;
 	color: white;
 	font-weight: 600;
 }
 
 .dissappear{
 	transition-delay: 10s;
-	transition: opacity 5s;
+	transition: opacity 10s;
 	opacity: 0;
 }
 
