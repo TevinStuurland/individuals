@@ -18,7 +18,7 @@ if (annyang) {
 		}, 
 
 		'accept': function() { 
-			window.open("https://www.youtube.com","_self")
+			window.open("../video.html","_self")
 		} 
 		
 	};
