@@ -18,7 +18,7 @@ if (annyang) {
 		}, 
 
 		'accept': function() { 
-			window.open("https://tevinstuurland.github.io/individuals/video.html","_self")
+			window.open("video.html","_self")
 		} 
 		
 	};
